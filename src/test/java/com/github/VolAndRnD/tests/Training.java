@@ -1,4 +1,4 @@
-package com.github.VolAndRnD;
+package com.github.VolAndRnD.tests;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
